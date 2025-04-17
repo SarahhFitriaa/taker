@@ -3413,3 +3413,16 @@
 4/17/2025 | 12:16:45 PM | INFO | Trying to check user miner status... 
 4/17/2025 | 12:16:46 PM | INFO | Last mining time: 4/16/2025, 12:17:21 PM
 4/17/2025 | 12:16:46 PM | WARN | Mining already started, next mining time is: 4/17/2025, 12:17:21 PM
+4/17/2025 | 4:11:18 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/17/2025 | 4:11:18 PM | INFO | Start process for wallet 0xB256c2696579DEC7B7A0e815Eb71d1fd19E8A874 
+4/17/2025 | 4:11:19 PM | INFO | Trying To Login for wallet: 0xB256c2696579DEC7B7A0e815Eb71d1fd19E8A874 
+4/17/2025 | 4:11:20 PM | INFO | Login successful... 
+4/17/2025 | 4:11:20 PM | INFO | Trying to check user info... 
+4/17/2025 | 4:11:20 PM | INFO | User ID: 156334095 | Twitter: @sarahh_fitria | Total Points: 1226680 
+4/17/2025 | 4:11:20 PM | INFO | Trying to check user miner status... 
+4/17/2025 | 4:11:23 PM | INFO | Last mining time: 4/16/2025, 12:17:21 PM
+4/17/2025 | 4:11:23 PM | INFO | Trying to start Mining for wallet: 0xB256c2696579DEC7B7A0e815Eb71d1fd19E8A874 
+4/17/2025 | 4:11:29 PM | INFO | Mine response: {"code":500,"msg":"The contract is not activated. Please activate the contract first","data":null}
+4/17/2025 | 4:11:29 PM | INFO | Trying to activate mining on-chain for wallet: 0xB256c2696579DEC7B7A0e815Eb71d1fd19E8A874 
+4/17/2025 | 4:11:41 PM | ERROR | Activate Mining Error: {"errno":-104,"code":"ECONNRESET","syscall":"read"}
+4/17/2025 | 4:11:41 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
