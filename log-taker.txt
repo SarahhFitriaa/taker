@@ -5094,3 +5094,12 @@
 5/16/2025 | 8:10:38 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 5/16/2025 | 8:10:38 PM | INFO | Trying to activate mining on-chain for wallet: 0xB256c2696579DEC7B7A0e815Eb71d1fd19E8A874 
 5/16/2025 | 8:10:59 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xebd685e6e5458e94fb39d10ab0a8fb29d6c5e4033224b0f83d79ca8463573a3a 
+5/17/2025 | 12:45:13 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/17/2025 | 12:45:13 AM | INFO | Start process for wallet 0xB256c2696579DEC7B7A0e815Eb71d1fd19E8A874 
+5/17/2025 | 12:45:14 AM | INFO | Trying To Login for wallet: 0xB256c2696579DEC7B7A0e815Eb71d1fd19E8A874 
+5/17/2025 | 12:45:15 AM | INFO | Login successful... 
+5/17/2025 | 12:45:15 AM | INFO | Trying to check user info... 
+5/17/2025 | 12:45:15 AM | INFO | User ID: 156334095 | Twitter: @sarahh_fitria | Total Points: 1874680 
+5/17/2025 | 12:45:15 AM | INFO | Trying to check user miner status... 
+5/17/2025 | 12:45:16 AM | INFO | Last mining time: 5/16/2025, 8:10:54 PM
+5/17/2025 | 12:45:16 AM | WARN | Mining already started, next mining time is: 5/17/2025, 8:10:54 PM
