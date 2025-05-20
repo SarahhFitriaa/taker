@@ -5301,3 +5301,16 @@
 5/20/2025 | 12:18:18 PM | INFO | Trying to check user miner status... 
 5/20/2025 | 12:18:19 PM | INFO | Last mining time: 5/20/2025, 4:13:54 AM
 5/20/2025 | 12:18:19 PM | WARN | Mining already started, next mining time is: 5/21/2025, 4:13:54 AM
+5/20/2025 | 4:11:36 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/20/2025 | 4:11:36 PM | INFO | Start process for wallet 0xB256c2696579DEC7B7A0e815Eb71d1fd19E8A874 
+5/20/2025 | 4:11:37 PM | INFO | Trying To Login for wallet: 0xB256c2696579DEC7B7A0e815Eb71d1fd19E8A874 
+5/20/2025 | 4:11:38 PM | INFO | Login successful... 
+5/20/2025 | 4:11:38 PM | INFO | Trying to check user info... 
+5/20/2025 | 4:11:39 PM | INFO | User ID: 156334095 | Twitter: @sarahh_fitria | Total Points: 1922680 
+5/20/2025 | 4:11:39 PM | INFO | Trying to check user miner status... 
+5/20/2025 | 4:11:40 PM | INFO | Last mining time: 3/13/2025, 8:10:03 PM
+5/20/2025 | 4:11:40 PM | INFO | Trying to start Mining for wallet: 0xB256c2696579DEC7B7A0e815Eb71d1fd19E8A874 
+5/20/2025 | 4:11:40 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/20/2025 | 4:11:40 PM | INFO | Trying to activate mining on-chain for wallet: 0xB256c2696579DEC7B7A0e815Eb71d1fd19E8A874 
+5/20/2025 | 4:11:42 PM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0xB256c2696579DEC7B7A0e815Eb71d1fd19E8A874"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x16","from":"0xb256c2696579dec7b7a0e815eb71d1fd19e8a874","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
+5/20/2025 | 4:11:42 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
